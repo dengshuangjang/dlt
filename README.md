@@ -1,34 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dengshuangjang/dlt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
     君兴网络科技>> 用心为你提供最优的电脑手机网络服务
     1、电脑不好用，没法用，常出现各种情况：启动慢，软件运行常出问题，病毒入侵，数据丢失，不能安装系统，不能应用程序……不熟悉电脑的，不知怎样用电脑完成的办公任务，熟悉的办公经验和技巧，编写程序让电脑自动去操作完成，简化你的操作，丰富系统维护使用经验，让你的电脑更好用，启动更快，响应更快，并让电脑安全，稳定，高效地运行，安装最新，最适合你使用电脑的系统，新电脑可以秒启动，优化设置加强系统安全，杜绝盗版，防治病毒，恢复数据（包括误删除文件，手机数据丢失等），登录密码破解等电脑维护服务！
