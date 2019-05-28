@@ -27,3 +27,6 @@
        网址：http://dengshuangjang.github.io/newdeng
 
       很多专卖店，没能修好的，在这里很快搞定，如果你有需求，请联系君华网络科技公司，就在你的身边！
+
+
+<script type="text/javascript" src="//cytroncdn.videojj.com/latest/cytron.core.js"></script>
