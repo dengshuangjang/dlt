@@ -35,7 +35,7 @@ var ivaInstance = new Iva(
 '父容器',//新建一个div作为视频播放的窗口，建议div的宽高在640px*480px以上；
  {
    appkey: '应用标识',//必填，**请在控制台查看应用标识**
-   video: '视频地址url',//必填，播放地址（例如：http://v.youku.com/v_show/id_XMTY5NDg2MzY5Ng==.html）
+   video: 'http://v.youku.com/v_show/id_XMTY5NDg2MzY5Ng==.html',//必填，播放地址（例如：http://v.youku.com/v_show/id_XMTY5NDg2MzY5Ng==.html）
    title: '小视频',//选填，建议填写方便后台数据统计
    cover: '视频封面url',//选填，视频封面url
    vnewsEnable: false,//是否开启新闻推送功能，默认为true
