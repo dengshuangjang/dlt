@@ -32,13 +32,12 @@
 <script type="text/javascript" src="//cytroncdn.videojj.com/latest/cytron.core.js"></script>
 
 var ivaInstance = new Iva(
-'父容器',//新建一个div作为视频播放的窗口，建议div的宽高在640px*480px以上；
+ 'parent',//父容器id
  {
-   appkey: '应用标识',//必填，**请在控制台查看应用标识**
-   video: 'http://v.youku.com/v_show/id_XMTY5NDg2MzY5Ng==.html',//必填，播放地址（例如：http://v.youku.com/v_show/id_XMTY5NDg2MzY5Ng==.html）
+   appkey: '410idWDt',//必填，请在控制台查看应用标识
+   video: 'http://7xikp8.com1.z0.glb.clouddn.com/bunny.mp4',//必填，播放地址（例如：http://v.youku.com/v_show/id_XMTY5NDg2MzY5Ng==.html）
    title: '小视频',//选填，建议填写方便后台数据统计
-   cover: '视频封面url',//选填，视频封面url
-   vnewsEnable: false,//是否开启新闻推送功能，默认为true
+   cover: '',//选填，视频封面url
    playerUrl: '', //选填，第三方播放器与Video++互动层的桥接文件，由Video++官方定制提供，默认为空
    videoStartPrefixSeconds: 0,//选填，跳过片头，默认为0
    videoEndPrefixSeconds: 0,//选填，跳过片尾，默认为0
@@ -46,7 +45,7 @@ var ivaInstance = new Iva(
    skinSelect: 0,//选填，播放器皮肤，可选0、1、2，默认为0，
    autoplay: false,//选填，是否自动播放，默认为false
    rightHand: true,//选填，是否开启右键菜单，默认为false
-   autoFormat: false,//选填，是否自动选择最高清晰度，默>认为false
+   autoFormat: false,//选填，是否自动选择最高清晰度，默认为false
    bubble: true,//选填，是否开启云泡功能，默认为true
    jumpStep: 10,//选填，左右方向键快退快进的时间
    tagTrack: false,//选填，云链是否跟踪，默认为false
